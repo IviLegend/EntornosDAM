@@ -3,3 +3,7 @@ Texto de ejemplo.
 Segunda línea para realizar nuevos cambios.
 
 Cambios para bugfixing.
+
+Estas líneas están dentro de la rama bugfixing.
+
+Aquí hay nuevo contenido.
