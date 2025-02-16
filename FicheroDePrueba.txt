@@ -1,3 +1,5 @@
 Vamos a cambiar todo para forzar un conflicto.
 
-Hemos eliminado todas las líneas
+Hemos eliminado todas las líneas.
+
+Al querer hacer el merge debería dar error.
